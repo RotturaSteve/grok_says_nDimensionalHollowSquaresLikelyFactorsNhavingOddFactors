@@ -1,0 +1,1 @@
+the non-problem but rather big add is that the corners EACH have 'd' value, grok agreed that was not entirely caught by ChatGPT and far from just being a game-saver it might be a serious leap which is what i figured
